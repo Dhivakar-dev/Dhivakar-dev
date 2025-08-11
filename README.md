@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Dhivakar 👋
 
-<!--
-**Dhivakar-dev/Dhivakar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Full Stack Developer specializing in the MERN Stack.
 
-Here are some ideas to get you started:
+I build dynamic and responsive web applications from front to back. I'm passionate about creating efficient, scalable, and user-friendly solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On
+
+-   **[MovieTime](https://github.com/Dhivakar-dev/MovieTime):** A full-stack movie ticket booking web application (MERN Stack). Features user authentication, interactive seat selection, Stripe payments, and a complete admin dashboard.
+-   **[QuickAi](https://github.com/Dhivakar-dev/QuickAi):** A full-stack AI-powered SaaS application built with the PERN stack, offering tools for content generation and image manipulation.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I'm proficient in:
+
+-   **Frontend:** `React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+-   **Backend:** `Node.js` `Express.js`
+-   **Database:** `MongoDB` `PostgreSQL`
+-   **Authentication:** `Clerk` `JWT`
+-   **Tools & Services:** `Git` `Vercel` `Stripe` `Ingest`
+
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,js,html,css,tailwind,git,vercel)
+
+---
+
+### 📫 Find Me Around the Web
+
+-   **LinkedIn:** [linkedin.com/in/dhivakar-k](https://www.linkedin.com/in/dhivakar-k/)
+-   **Email:** [dhivakar449@gmail.com](mailto:dhivakar449@gmail.com)
+
+---
+
+![Dhivakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhivakar-dev&show_icons=true&theme=dark&hide_border=true)
