@@ -8,7 +8,7 @@ I build dynamic and responsive web applications from front to back. I'm passiona
 
 ### 🚀 What I'm Working On
 
--   **[MovieTime](https://github.com/Dhivakar-dev/MovieTime):** A full-stack movie ticket booking web application (MERN Stack). Features user authentication, interactive seat selection, Stripe payments, and a complete admin dashboard.
+-   **[MovieTime](https://github.com/Dhivakar-dev/MovieTime):** A full-stack movie ticket booking web application (MERN Stack). Features user authentication, interactive seat selection, Stripe payment integration, and an admin panel for managing theaters and shows.
 -   **[QuickAi](https://github.com/Dhivakar-dev/QuickAi):** A full-stack AI-powered SaaS application built with the PERN stack, offering tools for content generation and image manipulation.
 
 ---
@@ -18,12 +18,12 @@ I build dynamic and responsive web applications from front to back. I'm passiona
 Here are some of the technologies I'm proficient in:
 
 -   **Frontend:** `React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
--   **Backend:** `Node.js` `Express.js`
+-   **Backend:** `Node.js` `Express.js` `Java` `Spring Boot`
 -   **Database:** `MongoDB` `PostgreSQL`
 -   **Authentication:** `Clerk` `JWT`
 -   **Tools & Services:** `Git` `Vercel` `Stripe` `Ingest`
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,js,html,css,tailwind,git,vercel)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,js,html,css,tailwind,git,vercel,java,spring)
 
 ---
 
